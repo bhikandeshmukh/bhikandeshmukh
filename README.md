@@ -21,10 +21,6 @@
 <a href="https://github.com/thebhikandeshmukh"><img title="thebhikandeshmukh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebhikandeshmukh&layout=compact"></a>
 </p>
 
-<p align="center">
-<img src="https://i.imgur.com/iqtpmK4.jpg"></p>
-</p>
-
 <p align="center">Open source code provider<p align="center">
 
 <p align="center">
@@ -34,7 +30,6 @@
 <a href="https://github.com/thebhikandeshmukh"><img title="GitHub version" src="https://img.shields.io/badge/licences-thebhikandeshmukh-red" ></a>
 <a href="https://www.youtube.com/deepanshunarwal"><img alt="Youtube" src="https://img.shields.io/badge/You-Tube-red"/></a>
 <a href="https://instagram.com/bhikan_deshmukh"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thebhikandeshmukh-ff69b4"/></a>
-<a href="https://github.com/thebhikandeshmukh"><img title="Stars" src="https://img.shields.io/github/stars/thebhikandeshmukh/shark?style=social" ></a></p>
 </p>
 
 ###### <p align="center">*Officially Maintened*</p>
