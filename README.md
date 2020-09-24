@@ -2,11 +2,8 @@
 
 ### <p align="center">Bhikan Deshmukh<p align="center">
 <p align="center">powered by aladdin<p align="center">
-
-<img src="https://i.imgur.com/iqtpmK4.jpg"></p>
   
 ![Bhikan's github stats](https://github-readme-stats.vercel.app/api?username=thebhikandeshmukh&show_icons=true&theme=default)
-
 
 <p align="center">Open source code provider<p align="center">
 <a href="https://github.com/thebhikandeshmukh"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
@@ -16,6 +13,8 @@
 <a href="https://www.youtube.com/deepanshunarwal"><img alt="Youtube" src="https://img.shields.io/badge/You-Tube-red"/></a>
 <a href="https://instagram.com/bhikan_deshmukh"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thebhikandeshmukh-ff69b4"/></a>
 <a href="https://github.com/thebhikandeshmukh"><img title="Stars" src="https://img.shields.io/github/stars/thebhikandeshmukh/shark?style=social" ></a></p>
+
+<img src="https://i.imgur.com/iqtpmK4.jpg"></p>
 
 ###### <p align="center">*Officially Maintened*
 ###### <p align="center"> *[**@bhikan_deshmukh**](https://www.instagram.com/bhikan_deshmukh/) ❤️*
