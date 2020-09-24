@@ -7,7 +7,7 @@
   
 
 
-[![bhikan's github stats](https://github-readme-stats.vercel.app/api?username=thebhikandeshmukh&count_private=true&show_icons=true&theme=dark)](https://github.com/thebhikandeshmukh/github-readme-stats)
+[![Bhikan's github stats](https://github-readme-stats.vercel.app/api?username=thebhikandeshmukh&count_private=true&show_icons=true&theme=dark)](https://github.com/thebhikandeshmukh/github-readme-stats)
 
 <p align="center">Open source code provider<p align="center">
 <a href="https://github.com/thebhikandeshmukh"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
