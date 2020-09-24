@@ -1,9 +1,7 @@
 ### <p align="center">📌 Bhikan Deshmukh 📌<p align="center">
 <p align="center"> ⚡ powered by aladdin ⚡<p align="center">
 
-<p align="center">
 ![Bhikan's github stats](https://github-readme-stats.vercel.app/api?username=thebhikandeshmukh&show_icons=true&theme=default)
-</p>
 
 <p align="center">
 <a href="https://t.me/dev_aladdin"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
@@ -41,3 +39,5 @@
 ###### <p align="center">*Officially Maintened*</p>
 ###### <p align="center"> *[**@bhikan_deshmukh**](https://www.instagram.com/bhikan_deshmukh/) ❤️*</p>
 ###### <p align="center"> *You can check [Instagram](https://www.instagram.com/bhikan_deshmukh)✌*</p>
+
+
