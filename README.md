@@ -8,7 +8,7 @@
 <a href="https://t.me/dev_aladdin"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://wa.me/918600525401"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.instagram.com/bhikan_deshmukh/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<noscript><a href="https://liberapay.com/bhikan_deshmukh/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<a href="https://www.instamojo.com/@deepanshunarwal/"><img title="DONATE" src="https://img.shields.io/badge/Googlepay-%4285F4.svg?&style=for-the-badge&logo=Googlepay&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -32,6 +32,9 @@
 <a href="https://www.youtube.com/deepanshunarwal"><img alt="Youtube" src="https://img.shields.io/badge/You-Tube-red"/></a>
 <a href="https://instagram.com/bhikan_deshmukh"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thebhikandeshmukh-ff69b4"/></a>
 </p>
+
+<noscript><a href="https://liberapay.com/bhikan_deshmukh/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 
 ###### <p align="center">*Officially Maintened*</p>
 ###### <p align="center"> *[**@bhikan_deshmukh**](https://www.instagram.com/bhikan_deshmukh/) ❤️*</p>
