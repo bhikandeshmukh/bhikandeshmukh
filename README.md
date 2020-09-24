@@ -14,6 +14,8 @@
 <a href="https://instagram.com/bhikan_deshmukh"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thebhikandeshmukh-ff69b4"/></a>
 <a href="https://github.com/thebhikandeshmukh"><img title="Stars" src="https://img.shields.io/github/stars/thebhikandeshmukh/shark?style=social" ></a></p>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=thebhikandeshmukh&repo=github-readme-stats)](https://github.com/thebhikandeshmukh/shark/github-readme-stats)
+
 <img src="https://i.imgur.com/iqtpmK4.jpg"></p>
 
 ###### <p align="center">*Officially Maintened*
