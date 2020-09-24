@@ -1,7 +1,7 @@
 ### <p align="center">📌 Bhikan Deshmukh 📌<p align="center">
 <p align="center"> ⚡ powered by aladdin ⚡<p align="center">
 
-<p align="center"><a href="https://github-readme-stats.vercel.app/api?username=thebhikandeshmukh&show_icons=true&theme=default&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/thebhikandeshmukh"><img title="Bhikan Deshmukh" src="https://github-readme-stats.vercel.app/api?username=thebhikandeshmukh&show_icons=true&include_all_commits=true&theme=default&cache_seconds=3200"></a>
 </p>
 
 <p align="center">
