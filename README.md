@@ -10,6 +10,16 @@
 <a href="https://www.instagram.com/bhikan_deshmukh/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.instamojo.com/@deepanshunarwal/"><img title="DONATE" src="https://img.shields.io/badge/DONATE-lightgrey?style=for-the-badge&logo=Google-pay"></a>
 </p>
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_Fi84nt7lZAwsdT/view" data-text="DONATE" data-color="#528FF0" data-size="medium">
+  <script>
+    (function(){
+      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
+      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
+      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
+      rzp && rzp.init && rzp.init()}})();
+  </script>
+</div>
+    
 
 <p align="center"> 
 <a href="https://github.com/bhikandeshmukh/shark"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=shark&theme=dark"></a>
