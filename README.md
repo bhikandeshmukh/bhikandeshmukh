@@ -1,9 +1,10 @@
-### <p align="center">📌 Bhikan Deshmukh 📌<p align="center">
+<h4 align="center">📌 Bhikan Deshmukh 📌<h4 align="center">
 <p align="center"> ⚡ powered by aladdin ⚡<p align="center">
 
 <p align="center"><a href="https://github.com/bhikandeshmukh"><img title="Bhikan Deshmukh" src="https://github-readme-stats.vercel.app/api?username=bhikandeshmukh&show_icons=true&include_all_commits=true&theme=default&cache_seconds=3200"></a>
 </p>
 
+<h4 align="center">♨️ FOLLOW ♨️<h4 align="center">
 <p align="center">
 <a href="https://t.me/dev_aladdin"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://wa.me/918600525401"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
