@@ -5,20 +5,12 @@
 </p>
 
 <p align="center">
-<a href="https://t.me/dev_aladdin"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/dev_aladdin"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
 <a href="https://wa.me/918600525401"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.instagram.com/bhikan_deshmukh/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.instamojo.com/@deepanshunarwal/"><img title="DONATE" src="https://img.shields.io/badge/DONATE-lightgrey?style=for-the-badge&logo=Google-pay"></a>
+<a href="https://rzp.io/l/mrbee"><img title="DONATE" src="https://img.shields.io/badge/DONATE-black?style=for-the-badge&logo=google-pay"></a>
 </p>
-<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_Fi84nt7lZAwsdT/view" data-text="DONATE" data-color="#528FF0" data-size="medium">
-  <script>
-    (function(){
-      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
-      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
-      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
-      rzp && rzp.init && rzp.init()}})();
-  </script>
-</div>
+
     
 
 <p align="center"> 
