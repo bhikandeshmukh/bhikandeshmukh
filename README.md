@@ -1,4 +1,4 @@
-<h4 align="center">📌 Bhikan Deshmukh 📌<h4 align="center">
+<h4 align="center">📌 Mr. Bee 📌<h4 align="center">
 
 <p align="center"> ⚡ powered by aladdin ⚡<p align="center">
 
