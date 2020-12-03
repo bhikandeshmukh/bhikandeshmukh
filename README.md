@@ -30,4 +30,4 @@
 <a href="https://github.com/bebhikandeshmukh"><img title="thebhikandeshmukh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhikandeshmukh&layout=compact"></a>
 </p>
 
-<p align="center"> 🔥 <img src="https://komarev.com/ghpvc/?username=bhikanbeshmukh&color=brightgreen" alt="bhikanbeshmukh" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhikanbeshmukh&color=brightgreen" alt="bhikanbeshmukh" />
