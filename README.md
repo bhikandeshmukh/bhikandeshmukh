@@ -1,4 +1,4 @@
-<h4 align="center">⚡ Mr. Bee ⚡<h4 align="center">
+<h4 align="center">👑 Mr. Bee 👑<h4 align="center">
 
 <p align="center"><a href="https://github.com/bhikandeshmukh"><img title="Bhikan Deshmukh" src="https://github-readme-stats.vercel.app/api?username=bhikandeshmukh&show_icons=true&include_all_commits=true&theme=default&cache_seconds=3200"></a>
 </p>
