@@ -68,7 +68,8 @@
 <img src="https://komarev.com/ghpvc/?username=bhikanbeshmukh&color=brightgreen" alt="bhikanbeshmukh" />
 </p>
 
-<details>
+
+<details align='center'>
   <summary>📃 My Resume</summary>
 
 
@@ -134,3 +135,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details align='center'>
+  <summary>📃 Best Tools</summary>
+<p align="center">
+<a href="https://github.com/bhikandeshmukh/shark"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=shark&theme=dark"></a>
+<a href="https://github.com/bhikandeshmukh/instarat"><img title="instarat" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=instarat&theme=default"></a>
+<a href="https://github.com/bhikandeshmukh/badges"><img title="AdvPhishing" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=badges&theme=dark"></a>
+<a href="https://github.com/bhikandeshmukh/sheller"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=sheller&theme=default"></a>
+</p>
+  
+</details>
