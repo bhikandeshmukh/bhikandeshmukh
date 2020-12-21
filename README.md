@@ -69,8 +69,8 @@
 </p>
 
 
-<details align='center'>
-  <summary>📃 My Resume</summary>
+<details>
+  <summary align='center'>📃 My Resume</summary>
 
 
 ## Education
@@ -136,8 +136,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details align='center'>
-  <summary>📃 Best Tools</summary>
+<details>
+  <summary align='center'>📃 Best Tools</summary>
 <p align="center">
 <a href="https://github.com/bhikandeshmukh/shark"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=shark&theme=dark"></a>
 <a href="https://github.com/bhikandeshmukh/instarat"><img title="instarat" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=instarat&theme=default"></a>
