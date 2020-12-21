@@ -42,7 +42,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bhikanbeshmukh&show_icons=true&count_private=true&theme=default" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bhikandeshmukh&show_icons=true&count_private=true&theme=default" width="350"></a>
 </p>
 
 <p align='center'>
@@ -65,7 +65,7 @@
   📫 How to reach me: <a href='mailto:thebhikandeshmukh@gmail.com'>thebhikandeshmukh@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/bhikanbeshmukh/bhikanbeshmukh"></a>
+  <img src="https://badges.pufler.dev/visits/bhikandeshmukh//bhikandeshmukh" />
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=bhikanbeshmukh&color=brightgreen" alt="bhikanbeshmukh" />
