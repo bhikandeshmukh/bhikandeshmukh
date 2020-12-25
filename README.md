@@ -71,9 +71,8 @@
   📫 How to reach me: <a href='mailto:thebhikandeshmukh@gmail.com'>thebhikandeshmukh@gmail.com</a>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bhikanbeshmukh&color=brightgreen" alt="bhikanbeshmukh" />
+<img title="Happy Clints" src="https://komarev.com/ghpvc/?username=bhikanbeshmukh&color=brightgreen" alt="bhikanbeshmukh" />
 </p>
-
 
 <details>
   <summary>📃 Know About More</summary><br>
