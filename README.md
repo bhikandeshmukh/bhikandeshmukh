@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A Freelancer, *****
+  A Freelancer,
 </p>
 
 <h4 align='center'>
@@ -14,17 +14,21 @@
 
 <p align='center'>
 
-  <a href="https://www.instagram.com/bhikan_deshmukh/">
-  <img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/bhikan_deshmukh/">
+<img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bhikanbeshmukh/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+
+</p>
+
+<details align='center'>
+  <summary>Follow More On Social Media</summary><br>
   <a href="https://wa.me/918600525401">
   <img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/thebhikandeshmukh">
   <img title="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bhikanbeshmukh/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.twitter.com/bhikan_deshmukh/">
   <img title="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -38,8 +42,10 @@
   <a href="https://blockchain.com/btc/payment_request?address=152Z6LYLZ3AN8Fvhry3CLyqirAJ2rmEiAD&amount=0.00008703&message=DONATE">
   <img title="Bitcoin" src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
-</p>
+
+
+</details>
+
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bhikandeshmukh&show_icons=true&count_private=true&theme=default" width="350"></a>
@@ -47,7 +53,7 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/debian-%230078D6.svg?&style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -70,7 +76,7 @@
 
 
 <details>
-  <summary align='center'>📃 My Resume</summary>
+  <summary>📃 Know About More</summary><br>
 
 
 ## Education
@@ -120,7 +126,7 @@
 -->
 
 </details>
-  
+
 <!--
 **bhikanbeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -137,12 +143,21 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <summary align='center'>📃 Best Tools</summary>
+  <summary>Best Tools</summary><br>
 <p align="center">
+<a href="https://github.com/bhikandeshmukh/MaskPhish"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=MaskPhish&theme=dark"></a><br>
+<a href="https://github.com/bhikandeshmukh/instainsane"><img title="instarat" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=instainsane&theme=default"></a><br>
+<a href="https://github.com/bhikandeshmukh/DroidTracker"><img title="AdvPhishing" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=DroidTracker&theme=dark"></a><br>
+<a href="https://github.com/bhikandeshmukh/ipgeolocation"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=ipgeolocation&theme=default"></a><br>
+<a href="https://github.com/bhikandeshmukh/sheller"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=sheller&theme=dark"></a><br>
+<a href="https://github.com/bhikandeshmukh/userrecon"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=userrecon&theme=default"></a><br>
+</p>
+
+</details>
+
+<p align='center'>
 <a href="https://github.com/bhikandeshmukh/shark"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=shark&theme=dark"></a>
 <a href="https://github.com/bhikandeshmukh/instarat"><img title="instarat" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=instarat&theme=default"></a>
 <a href="https://github.com/bhikandeshmukh/badges"><img title="AdvPhishing" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=badges&theme=dark"></a>
-<a href="https://github.com/bhikandeshmukh/sheller"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=sheller&theme=default"></a>
-</p>
-  
-</details>
+<a href="https://github.com/bhikandeshmukh/CamPhish"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=CamPhish&theme=default"></a>
+</a>
