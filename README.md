@@ -1,155 +1,138 @@
-<!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=230&section=header&text=Bhikan%20Deshmukh&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Freelancer%20%E2%80%A2%20Automation%20Builder&descSize=18&descAlignY=58" alt="Bhikan Deshmukh" width="100%" />
+  <img src="assets/header.svg" width="100%" alt="Bhikan Deshmukh — Full-Stack Developer, AI Agent Builder, Freelancer since 2015" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/bhikandeshmukh">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Bhikan+%F0%9F%91%8B;Creator+of+Ultron+%26+Ravan+AI+agents+%F0%9F%A4%96;I+build+e-commerce+%26+warehouse+automation;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Kotlin;Freelancing+worldwide+since+2015+%F0%9F%9A%80;Turning+hours+of+manual+work+into+one+click" alt="Typing intro" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhikanbeshmukh&label=Lifetime%20profile%20views&color=36BCF7&style=for-the-badge" alt="Lifetime profile views" />
-  <a href="https://github.com/bhikandeshmukh?tab=followers"><img src="https://img.shields.io/github/followers/bhikandeshmukh?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/bhikandeshmukh?tab=repositories"><img src="https://img.shields.io/github/stars/bhikandeshmukh?affiliations=OWNER&label=Total%20stars&style=for-the-badge&color=0f2027&logo=github" alt="Total stars" /></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
-
-## 🧑‍💻 About me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding" />
-
-- 💼 **Freelance developer** since 2015, shipping for clients worldwide
-- 🤖 Building **AI agents that run an e-commerce business** — [Ultron](https://github.com/bindalbhikan/Ultron) (live) and its successor **Ravan**
-- 🛒 Building **e-commerce ops tools** — bulk listings for Myntra, Amazon, Flipkart & Ajio, dispatch / returns management and marketplace automation
-- 🏭 Shipping **warehouse & workforce apps** — productivity tracking, inventory and geofenced attendance
-- 📱 Making **Android apps** in Kotlin — like [AirTap](https://github.com/bhikandeshmukh/AirTap), control your phone from your desktop
-- 🛡️ **Security & OSINT** enthusiast — my early open-source tools earned 1.8k+ ⭐
-- ⚡ Fun fact: I'd rather spend 3 hours automating a task than do it manually for 3 minutes
-
-<br clear="right" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
-
-## 🤖 AI agents I'm building
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/bindalbhikan/Ultron">Ultron · Ecom Manager</a></h3>
-      <img src="https://img.shields.io/badge/status-live%20in%20production-2ea44f?style=flat-square" alt="Live" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" />
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-      <p>An AI e-commerce manager for marketplace sellers that runs my own business every day.</p>
-      <ul>
-        <li>30+ automated workings on GitHub Actions — sales, returns, SLA, dispatch, stock, listings, MIS and payment reports</li>
-        <li>Talks to Myntra, AJIO, Flipkart, OMSGuru and the ERP</li>
-        <li>Telegram bot: answers questions about orders and sales, alerts on failures with the cause, and proposes actions you approve with one tap</li>
-        <li>Live dashboard, Drive reporting and AI auto-fix on failed runs</li>
-        <li>Runs on Linux, Windows, macOS and even Android (Termux)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔥 Ravan</h3>
-      <img src="https://img.shields.io/badge/status-in%20development-orange?style=flat-square" alt="In development" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-      <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars" />
-      <img src="https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white" alt="Parquet" />
-      <p>The next-generation rebuild of Ultron — an autonomous agent that does the daily work of a whole e-commerce team.</p>
-      <ul>
-        <li>Covers the roles of e-commerce head, manager, executive, returns, listings, BD and MIS</li>
-        <li>Clean ports-and-adapters architecture in Go, with a Python (Polars) data worker</li>
-        <li>Parquet data lake — every figure can be cut by portal → account → brand</li>
-        <li>Every working is proven against the live system with parity tests before cut-over</li>
-        <li>Seller-neutral by design, so any marketplace seller can install it</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<tr>
+<td>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+<div align="center">
+
+I build software that takes repetitive work off people's desks —<br/>
+**AI agents, e-commerce automation, dashboards and Android apps.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhikanbeshmukh&label=Lifetime%20views&color=0b1120&style=for-the-badge&labelColor=1e293b" alt="Lifetime views" />
+<img src="https://img.shields.io/github/followers/bhikandeshmukh?style=for-the-badge&color=0b1120&labelColor=1e293b&label=Followers&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/bhikandeshmukh?affiliations=OWNER&style=for-the-badge&color=0b1120&labelColor=1e293b&label=Stars&logo=github" alt="Stars" />
+
+<a href="mailto:thebhikandeshmukh@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/bhikanbeshmukh/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=" alt="LinkedIn" /></a>
+<a href="https://x.com/bhikan_deshmukh"><img src="https://img.shields.io/badge/X-1e293b?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://t.me/bhikan_deshmukh"><img src="https://img.shields.io/badge/Telegram-1e293b?style=for-the-badge&logo=telegram&logoColor=38bdf8" alt="Telegram" /></a>
+<a href="https://wa.me/918600525401"><img src="https://img.shields.io/badge/WhatsApp-1e293b?style=for-the-badge&logo=whatsapp&logoColor=22c55e" alt="WhatsApp" /></a>
+<a href="https://www.instagram.com/bhikan_deshmukh/"><img src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=e4405f" alt="Instagram" /></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## ⚡ Featured work
+
+<p align="center">
+  <a href="https://github.com/bindalbhikan/Ultron"><img src="assets/ultron-card.svg" width="49%" alt="Ultron · Ecom Manager — live in production" /></a>
+  <img src="assets/ravan-card.svg" width="49%" alt="Ravan — autonomous e-commerce team, in development" />
+</p>
+
+<details>
+<summary><b>⚡ Ultron · Ecom Manager — problem, solution, stack</b></summary>
+<br/>
+
+| | |
+|---|---|
+| **Problem** | A marketplace seller's team spends hours every day pulling reports from Myntra, AJIO, Flipkart, the OMS and the ERP, and chasing SLAs and returns by hand. |
+| **Solution** | 30+ automated workings on GitHub Actions, a Telegram bot that answers questions and proposes actions for one-tap approval, failure alerts with the cause, and AI auto-fix for failed runs. |
+| **Stack** | Python · Cloudflare Workers · GitHub Actions · Telegram Bot API · Google Drive API |
+| **Repo** | [bindalbhikan/Ultron](https://github.com/bindalbhikan/Ultron) |
+
+</details>
+
+<details>
+<summary><b>🔥 Ravan — goal, design, quality bar</b></summary>
+<br/>
+
+| | |
+|---|---|
+| **Goal** | Cover the head, manager, executive, returns, listings, BD and MIS roles — first for my own business, then for any seller. |
+| **Design** | Go core with ports-and-adapters architecture, Python (Polars) data worker, Parquet data lake; every figure cut by portal → account → brand. |
+| **Quality bar** | Every working is proven against the live system with parity tests before cut-over. |
+
+</details>
+
+### More projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ACPLEFF](https://github.com/bhikandeshmukh/ACPLEFF) | Efficiency tracker and productivity reports for warehouse staff | Next.js · TypeScript |
+| [ATND](https://github.com/bhikandeshmukh/ATND) | Geofenced attendance with working hours and monthly reports | TypeScript |
+| [AirTap](https://github.com/bhikandeshmukh/AirTap) | Control an Android phone from the desktop | Kotlin |
+| [EcomSpace](https://github.com/bhikandeshmukh/EcomSpace) | Website for a marketplace-automation product suite | TypeScript |
+| [Dispatch Manager](https://github.com/bhikandeshmukh/dispatchmanager) | Dispatches, returns and cancellations across portals and couriers | JavaScript |
+| [TaskMaster](https://github.com/bhikandeshmukh/TaskMaster) | PDF split/merge, EXIF extraction and Excel/CSV merging | Python |
+
+<details>
+<summary><b>🛡️ Earlier open-source security tools (1.8k+ stars)</b></summary>
+<br/>
+
+| Project | Stars |
+|---|---|
+| [shark](https://github.com/bhikandeshmukh/shark) | ![](https://img.shields.io/github/stars/bhikandeshmukh/shark?style=flat-square&label=) |
+| [instarat](https://github.com/bhikandeshmukh/instarat) | ![](https://img.shields.io/github/stars/bhikandeshmukh/instarat?style=flat-square&label=) |
+| [MapEye](https://github.com/bhikandeshmukh/MapEye) | ![](https://img.shields.io/github/stars/bhikandeshmukh/MapEye?style=flat-square&label=) |
+| [fbreport](https://github.com/bhikandeshmukh/fbreport) | ![](https://img.shields.io/github/stars/bhikandeshmukh/fbreport?style=flat-square&label=) |
+| [Wi-Fi-Jammer](https://github.com/bhikandeshmukh/Wi-Fi-Jammer) | ![](https://img.shields.io/github/stars/bhikandeshmukh/Wi-Fi-Jammer?style=flat-square&label=) |
+
+Published for education and authorized security testing only.
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🧰 What I can build for you
+
+| Service | Examples |
+|---|---|
+| 🤖 **AI agents & bots** | Telegram / WhatsApp assistants, report bots, approval workflows |
+| 🛒 **E-commerce automation** | Bulk listings, order / return tracking, marketplace reports, SLA alerts |
+| 📊 **Dashboards & data** | Excel / Parquet pipelines, MIS reports, live dashboards |
+| 🌐 **Web apps** | Next.js + TypeScript apps, admin panels, PWAs |
+| 📱 **Android apps** | Kotlin apps, device tools, field-staff apps |
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,tailwind,html,css&theme=dark" alt="Web" /><br/>
-  <img src="https://skillicons.dev/icons?i=go,python,kotlin,androidstudio,cpp,php,bash,powershell&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=cloudflare,githubactions,firebase,supabase,mongodb,mysql,git,vercel,linux,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,tailwind,go,python,kotlin&theme=dark" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,cloudflare,githubactions,firebase,supabase,mysql,linux,git&theme=dark" alt="Platforms and tools" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🚀 What I'm building
+## 📊 GitHub activity
 
 <p align="center">
-  <a href="https://github.com/bhikandeshmukh/EcomSpace"><img src="https://github-stats-extended.vercel.app/api/pin/?username=bhikandeshmukh&repo=EcomSpace&theme=tokyonight&hide_border=true" alt="EcomSpace" /></a>
-  <a href="https://github.com/bhikandeshmukh/ACPLEFF"><img src="https://github-stats-extended.vercel.app/api/pin/?username=bhikandeshmukh&repo=ACPLEFF&theme=tokyonight&hide_border=true" alt="ACPLEFF" /></a>
-  <a href="https://github.com/bhikandeshmukh/ATND"><img src="https://github-stats-extended.vercel.app/api/pin/?username=bhikandeshmukh&repo=ATND&theme=tokyonight&hide_border=true" alt="ATND" /></a>
-  <a href="https://github.com/bhikandeshmukh/AirTap"><img src="https://github-stats-extended.vercel.app/api/pin/?username=bhikandeshmukh&repo=AirTap&theme=tokyonight&hide_border=true" alt="AirTap" /></a>
+  <img src="https://github-stats-extended.vercel.app/api?username=bhikandeshmukh&show_icons=true&theme=tokyonight&bg_color=0b1120&hide_border=true&include_all_commits=true" height="165" alt="Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhikandeshmukh&layout=compact&theme=tokyonight&bg_color=0b1120&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 </p>
-
-## ⭐ Most popular
-
 <p align="center">
-  <a href="https://github.com/bhikandeshmukh/shark"><img src="https://github-stats-extended.vercel.app/api/pin/?username=bhikandeshmukh&repo=shark&theme=tokyonight&hide_border=true" alt="shark" /></a>
-  <a href="https://github.com/bhikandeshmukh/instarat"><img src="https://github-stats-extended.vercel.app/api/pin/?username=bhikandeshmukh&repo=instarat&theme=tokyonight&hide_border=true" alt="instarat" /></a>
-  <a href="https://github.com/bhikandeshmukh/MapEye"><img src="https://github-stats-extended.vercel.app/api/pin/?username=bhikandeshmukh&repo=MapEye&theme=tokyonight&hide_border=true" alt="MapEye" /></a>
-  <a href="https://github.com/bhikandeshmukh/fbreport"><img src="https://github-stats-extended.vercel.app/api/pin/?username=bhikandeshmukh&repo=fbreport&theme=tokyonight&hide_border=true" alt="fbreport" /></a>
+  <img src="https://streak-stats.demolab.com/?user=bhikandeshmukh&theme=tokyonight&background=0b1120&hide_border=true" alt="Streak" />
 </p>
-
-<p align="center"><sub>⚠️ Security tools are published for education and authorized testing only.</sub></p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bhikandeshmukh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhikandeshmukh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhikandeshmukh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhikandeshmukh&theme=tokyonight" width="100%" alt="Contribution summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=bhikandeshmukh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhikandeshmukh/bhikandeshmukh/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhikandeshmukh/bhikandeshmukh/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/bhikandeshmukh/bhikandeshmukh/output/github-snake-dark.svg" alt="Contribution snake" />
+    <img src="https://raw.githubusercontent.com/bhikandeshmukh/bhikandeshmukh/output/github-snake.svg" alt="Contribution snake" />
   </picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+<div align="center">
+<sub>🎓 B.Com — North Maharashtra University · Diploma in Hotel Management — University of Delhi</sub>
+</div>
 
-## 🤝 Let's connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhikanbeshmukh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/bhikan_deshmukh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/bhikan_deshmukh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.facebook.com/thebhikandeshmukh"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://t.me/dev_aladdin"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://wa.me/918600525401"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:thebhikandeshmukh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://pages.razorpay.com/mrbee"><img src="https://img.shields.io/badge/☕%20Support%20my%20work-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Support via Razorpay" /></a>
-</p>
-
-<!-- Footer banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%" />
+  <img src="assets/footer.svg" width="100%" alt="Thanks for visiting — let's build something that runs itself" />
 </p>
