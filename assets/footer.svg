@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Thanks for visiting — let's build something that runs itself">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b2745"/>
+      <stop offset="100%" stop-color="#0b1120"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <clipPath id="fclip"><rect x="6" y="6" width="1188" height="188" rx="20"/></clipPath>
+    <style>
+      .wave1 { animation: slide 9s linear infinite; }
+      .wave2 { animation: slide 14s linear infinite reverse; }
+      .wave3 { animation: slide 20s linear infinite; }
+      .msg   { font: 700 30px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #e2e8f0; animation: fade 1.2s ease-out .3s both; }
+      .small { font: 500 16px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; animation: fade 1.2s ease-out .9s both; }
+      .comet { stroke-dasharray: 220 2780; animation: run 7s linear infinite; }
+      @keyframes slide { to { transform: translateX(-600px); } }
+      @keyframes fade  { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes run   { to { stroke-dashoffset: -3000; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#fclip)">
+    <rect width="1200" height="200" fill="url(#fbg)"/>
+    <path class="wave3" fill="#a78bfa" opacity=".10" d="M0 140 Q150 110 300 140 T600 140 T900 140 T1200 140 T1500 140 T1800 140 V200 H0Z"/>
+    <path class="wave2" fill="#38bdf8" opacity=".14" d="M0 155 Q150 130 300 155 T600 155 T900 155 T1200 155 T1500 155 T1800 155 V200 H0Z"/>
+    <path class="wave1" fill="url(#w1)" opacity=".22" d="M0 170 Q150 150 300 170 T600 170 T900 170 T1200 170 T1500 170 T1800 170 V200 H0Z"/>
+  </g>
+
+  <rect x="6" y="6" width="1188" height="188" rx="20" fill="none" stroke="#334155" stroke-width="1.5"/>
+  <rect class="comet" x="6" y="6" width="1188" height="188" rx="20" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" pathLength="3000"/>
+
+  <text class="msg"   x="600" y="78"  text-anchor="middle">Thanks for visiting</text>
+  <text class="small" x="600" y="112" text-anchor="middle">Let's build something that runs itself  ·  thebhikandeshmukh@gmail.com</text>
+</svg>

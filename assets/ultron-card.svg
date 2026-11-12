@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-label="Ultron · Ecom Manager — live in production">
+  <defs>
+    <linearGradient id="ubg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#132036"/>
+    </linearGradient>
+    <style>
+      .t  { font: 800 28px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #f1f5f9; }
+      .d  { font: 400 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; }
+      .b  { font: 500 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #cbd5e1; }
+      .k  { font: 700 13px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .n  { font: 600 12px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #e2e8f0; }
+      .chip { font: 600 12px 'Cascadia Code', Consolas, monospace; fill: #7dd3fc; }
+      .live { animation: pulse 1.6s ease-in-out infinite; transform-origin: 457px 40px; }
+      .flow { stroke-dasharray: 6 8; animation: dash 1.2s linear infinite; }
+      .comet { stroke-dasharray: 180 1820; animation: run 6s linear infinite; }
+      .in1 { animation: in .6s ease-out .2s both; }
+      .in2 { animation: in .6s ease-out .4s both; }
+      .in3 { animation: in .6s ease-out .6s both; }
+      .in4 { animation: in .6s ease-out .8s both; }
+      @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: .4; transform: scale(1.35); } }
+      @keyframes dash  { to { stroke-dashoffset: -14; } }
+      @keyframes run   { to { stroke-dashoffset: -2000; } }
+      @keyframes in    { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="592" height="332" rx="18" fill="url(#ubg)" stroke="#334155" stroke-width="1.5"/>
+  <rect class="comet" x="4" y="4" width="592" height="332" rx="18" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" pathLength="2000"/>
+
+  <text class="t" x="30" y="52">⚡ Ultron</text>
+  <text class="d" x="178" y="51">· Ecom Manager</text>
+  <rect x="440" y="26" width="128" height="28" rx="14" fill="#052e16" stroke="#16a34a" stroke-opacity=".7"/>
+  <circle class="live" cx="457" cy="40" r="5" fill="#22c55e"/>
+  <text class="k" x="470" y="45" fill="#86efac">LIVE · PROD</text>
+
+  <text class="d" x="30" y="84">An AI e-commerce manager running a real marketplace business.</text>
+
+  <text class="b in1" x="30" y="120">▸ 30+ automated workings on GitHub Actions</text>
+  <text class="b in2" x="30" y="146">▸ Telegram bot — questions, alerts, one-tap approvals</text>
+  <text class="b in3" x="30" y="172">▸ Failure alerts with root cause + AI auto-fix</text>
+  <text class="b in4" x="30" y="198">▸ Live dashboard and Drive reporting</text>
+
+  <!-- mini pipeline -->
+  <g transform="translate(30 222)">
+    <rect x="0"   y="0" width="112" height="34" rx="8" fill="#1e293b" stroke="#334155"/>
+    <text class="n" x="56"  y="22" text-anchor="middle">Marketplaces</text>
+    <rect x="182" y="0" width="112" height="34" rx="8" fill="#1e293b" stroke="#334155"/>
+    <text class="n" x="238" y="22" text-anchor="middle">GitHub Actions</text>
+    <rect x="364" y="0" width="112" height="34" rx="8" fill="#1e293b" stroke="#334155"/>
+    <text class="n" x="420" y="22" text-anchor="middle">Telegram</text>
+    <path class="flow" d="M112 17 H182" stroke="#38bdf8" stroke-width="2"/>
+    <path class="flow" d="M294 17 H364" stroke="#38bdf8" stroke-width="2"/>
+    <circle r="4" fill="#7dd3fc"><animateMotion dur="2.4s" repeatCount="indefinite" path="M112 17 H182 M294 17 H364"/></circle>
+    <circle r="4" fill="#a78bfa"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M294 17 H364"/></circle>
+  </g>
+
+  <g transform="translate(30 282)">
+    <rect x="0"   y="0" width="72"  height="26" rx="13" fill="#0c4a6e" fill-opacity=".5"/><text class="chip" x="36"  y="17" text-anchor="middle">Python</text>
+    <rect x="80"  y="0" width="150" height="26" rx="13" fill="#0c4a6e" fill-opacity=".5"/><text class="chip" x="155" y="17" text-anchor="middle">Cloudflare Workers</text>
+    <rect x="238" y="0" width="128" height="26" rx="13" fill="#0c4a6e" fill-opacity=".5"/><text class="chip" x="302" y="17" text-anchor="middle">GitHub Actions</text>
+    <rect x="374" y="0" width="90"  height="26" rx="13" fill="#0c4a6e" fill-opacity=".5"/><text class="chip" x="419" y="17" text-anchor="middle">Telegram</text>
+  </g>
+</svg>

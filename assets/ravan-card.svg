@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-label="Ravan — autonomous e-commerce team, in development">
+  <defs>
+    <linearGradient id="rbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#221a36"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <style>
+      .t  { font: 800 28px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #f1f5f9; }
+      .d  { font: 400 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; }
+      .b  { font: 500 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #cbd5e1; }
+      .k  { font: 700 13px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .n  { font: 600 12px 'Cascadia Code', Consolas, monospace; fill: #e2e8f0; }
+      .chip { font: 600 12px 'Cascadia Code', Consolas, monospace; fill: #fdba74; }
+      .dev  { animation: blink 1.4s ease-in-out infinite; }
+      .comet { stroke-dasharray: 180 1820; animation: run 6s linear infinite; }
+      .in1 { animation: in .6s ease-out .2s both; }
+      .in2 { animation: in .6s ease-out .4s both; }
+      .in3 { animation: in .6s ease-out .6s both; }
+      .in4 { animation: in .6s ease-out .8s both; }
+      @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+      @keyframes run   { to { stroke-dashoffset: -2000; } }
+      @keyframes in    { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
+    </style>
+  </defs>
+
+  <rect x="4" y="4" width="592" height="332" rx="18" fill="url(#rbg)" stroke="#3f3354" stroke-width="1.5"/>
+  <rect class="comet" x="4" y="4" width="592" height="332" rx="18" fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round" pathLength="2000"/>
+
+  <text class="t" x="30" y="52">🔥 Ravan</text>
+  <text class="d" x="180" y="51">· next-gen agent</text>
+  <rect x="404" y="26" width="164" height="28" rx="14" fill="#431407" stroke="#f97316" stroke-opacity=".7"/>
+  <circle class="dev" cx="421" cy="40" r="5" fill="#f97316"/>
+  <text class="k" x="434" y="45" fill="#fdba74">IN DEVELOPMENT</text>
+
+  <text class="d" x="30" y="84">An autonomous agent that does the work of a whole e-commerce team.</text>
+
+  <text class="b in1" x="30" y="120">▸ Head, manager, executive, returns, listings, BD, MIS</text>
+  <text class="b in2" x="30" y="146">▸ Go ports-and-adapters core + Polars data worker</text>
+  <text class="b in3" x="30" y="172">▸ Parquet lake — portal → account → brand</text>
+  <text class="b in4" x="30" y="198">▸ Live parity tests before every cut-over</text>
+
+  <!-- architecture flow -->
+  <g transform="translate(30 222)">
+    <rect x="0"   y="0" width="112" height="34" rx="8" fill="#1e1b2e" stroke="#3f3354"/>
+    <text class="n" x="56"  y="22" text-anchor="middle">adapters</text>
+    <rect x="182" y="0" width="112" height="34" rx="8" fill="#1e1b2e" stroke="#3f3354"/>
+    <text class="n" x="238" y="22" text-anchor="middle">use cases</text>
+    <rect x="364" y="0" width="112" height="34" rx="8" fill="#1e1b2e" stroke="#3f3354"/>
+    <text class="n" x="420" y="22" text-anchor="middle">domain</text>
+    <path d="M112 17 H182 M294 17 H364" stroke="#f97316" stroke-width="2" stroke-dasharray="6 8">
+      <animate attributeName="stroke-dashoffset" values="0;-14" dur="1.2s" repeatCount="indefinite"/>
+    </path>
+    <circle r="4" fill="#fdba74"><animateMotion dur="2.4s" repeatCount="indefinite" path="M112 17 H182"/></circle>
+    <circle r="4" fill="#c4b5fd"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M294 17 H364"/></circle>
+  </g>
+
+  <g transform="translate(30 282)">
+    <rect x="0"   y="0" width="48"  height="26" rx="13" fill="#7c2d12" fill-opacity=".45"/><text class="chip" x="24"  y="17" text-anchor="middle">Go</text>
+    <rect x="56"  y="0" width="72"  height="26" rx="13" fill="#7c2d12" fill-opacity=".45"/><text class="chip" x="92"  y="17" text-anchor="middle">Python</text>
+    <rect x="136" y="0" width="72"  height="26" rx="13" fill="#7c2d12" fill-opacity=".45"/><text class="chip" x="172" y="17" text-anchor="middle">Polars</text>
+    <rect x="216" y="0" width="80"  height="26" rx="13" fill="#7c2d12" fill-opacity=".45"/><text class="chip" x="256" y="17" text-anchor="middle">Parquet</text>
+    <rect x="304" y="0" width="90"  height="26" rx="13" fill="#7c2d12" fill-opacity=".45"/><text class="chip" x="349" y="17" text-anchor="middle">Telegram</text>
+  </g>
+</svg>

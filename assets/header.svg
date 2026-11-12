@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Bhikan Deshmukh — Full-Stack Developer, AI Agent Builder, Freelancer since 2015">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="55%" stop-color="#111a2e"/>
+      <stop offset="100%" stop-color="#1b2745"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e2e8f0">
+        <animate attributeName="stop-color" values="#e2e8f0;#7dd3fc;#a78bfa;#e2e8f0" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7dd3fc">
+        <animate attributeName="stop-color" values="#7dd3fc;#a78bfa;#e2e8f0;#7dd3fc" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="40"/></filter>
+    <clipPath id="frame"><rect x="6" y="6" width="1188" height="308" rx="20"/></clipPath>
+    <style>
+      .name   { font: 800 66px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 6px; animation: rise 1.2s ease-out .2s both; }
+      .sub    { font: 500 22px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; letter-spacing: 1px; animation: rise 1s ease-out .9s both; }
+      .role   { font: 600 20px 'Cascadia Code', 'Fira Code', Consolas, monospace; fill: #7dd3fc; }
+      .r2, .r3 { opacity: 0; }
+      .r1 { animation: cycle 12s linear 1.6s infinite backwards; }
+      .r2 { animation: cycle 12s linear 5.6s infinite; }
+      .r3 { animation: cycle 12s linear 9.6s infinite; }
+      .pill   { font: 600 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #bbf7d0; }
+      .dot    { animation: pulse 1.8s ease-in-out infinite; transform-origin: 966px 52px; }
+      .ring   { animation: ring 1.8s ease-out infinite; transform-origin: 966px 52px; }
+      .comet  { stroke-dasharray: 260 2740; animation: run 7s linear infinite; }
+      .comet2 { stroke-dasharray: 160 2840; animation: run 7s linear -3.5s infinite; }
+      .grid   { animation: drift 20s linear infinite; }
+      .orb1   { animation: float1 14s ease-in-out infinite; }
+      .orb2   { animation: float2 18s ease-in-out infinite; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes rise  { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes cycle { 0% { opacity: 0; } 3% { opacity: 1; } 30% { opacity: 1; } 33.3% { opacity: 0; } 100% { opacity: 0; } }
+      @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.25); } }
+      @keyframes ring  { from { transform: scale(1); opacity: .7; } to { transform: scale(2.6); opacity: 0; } }
+      @keyframes run   { to { stroke-dashoffset: -3000; } }
+      @keyframes drift { to { transform: translate(40px, 40px); } }
+      @keyframes float1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(120px, 40px); } }
+      @keyframes float2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-140px, -30px); } }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect class="grid" x="-40" y="-40" width="1280" height="400" fill="url(#grid)"/>
+    <circle class="orb1" cx="180" cy="80" r="120" fill="#38bdf8" opacity="0.16" filter="url(#blur)"/>
+    <circle class="orb2" cx="1020" cy="250" r="140" fill="#a78bfa" opacity="0.18" filter="url(#blur)"/>
+  </g>
+
+  <!-- static frame + two running light comets -->
+  <rect x="6" y="6" width="1188" height="308" rx="20" fill="none" stroke="#334155" stroke-width="1.5"/>
+  <rect class="comet"  x="6" y="6" width="1188" height="308" rx="20" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" pathLength="3000"/>
+  <rect class="comet2" x="6" y="6" width="1188" height="308" rx="20" fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" pathLength="3000"/>
+
+  <!-- availability pill -->
+  <rect x="946" y="34" width="222" height="36" rx="18" fill="#052e16" stroke="#16a34a" stroke-opacity=".6"/>
+  <circle class="ring" cx="966" cy="52" r="6" fill="none" stroke="#22c55e" stroke-width="2"/>
+  <circle class="dot"  cx="966" cy="52" r="6" fill="#22c55e"/>
+  <text class="pill" x="982" y="57">Available for freelance</text>
+
+  <!-- terminal hint -->
+  <text x="60" y="58" font-family="Cascadia Code, Fira Code, Consolas, monospace" font-size="15" fill="#475569">~/bhikan $ <tspan fill="#64748b">whoami</tspan><tspan class="cursor" fill="#38bdf8"> ▍</tspan></text>
+
+  <text class="name" x="600" y="160" text-anchor="middle" fill="url(#name)">BHIKAN DESHMUKH</text>
+  <text class="sub"  x="600" y="204" text-anchor="middle">Full-Stack Developer  ·  AI Agent Builder  ·  Freelancer since 2015</text>
+
+  <rect x="420" y="226" width="360" height="2" fill="url(#beam)" opacity=".8">
+    <animate attributeName="x" values="300;540;300" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text class="role r1" x="600" y="266" text-anchor="middle">&gt; building Ultron — an AI e-commerce manager</text>
+  <text class="role r2" x="600" y="266" text-anchor="middle">&gt; building Ravan — an autonomous e-commerce team</text>
+  <text class="role r3" x="600" y="266" text-anchor="middle">&gt; automating everything that repeats</text>
+</svg>
