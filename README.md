@@ -1,162 +1,89 @@
+<h1 align="center">Hi there 👋 I'm Bhikan Deshmukh</h1>
 
-
-<h1 align='center'>
-  Hi there 👋 I'm BHIKAN 👨‍💻
-</h1>
-
-<p align='center'>
-  A Freelancer,
-</p>
-
-<h4 align='center'>
-    ♨️ FOLLOW ♨️
-</h4>
-
-<p align='center'>
-
-<a href="https://www.instagram.com/bhikan_deshmukh/">
-<img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bhikanbeshmukh/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-
-</p>
-
-<details align='center'>
-  <summary>Follow More On Social Media</summary><br>
-  <a href="https://wa.me/918600525401">
-  <img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/thebhikandeshmukh">
-  <img title="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.twitter.com/bhikan_deshmukh/">
-  <img title="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/dev_aladdin">
-  <img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://rzp.io/l/mrbee">
-  <img title="DONATE" src="https://img.shields.io/badge/DONATE-yellow?style=for-the-badge&logo=google-pay" />
-  </a>&nbsp;&nbsp;
-  <a href="https://blockchain.com/btc/payment_request?address=152Z6LYLZ3AN8Fvhry3CLyqirAJ2rmEiAD&amount=0.00008703&message=DONATE">
-  <img title="Bitcoin" src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-
-
-</details>
-
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bhikandeshmukh&show_icons=true&count_private=true&theme=default" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/debian-%230078D6.svg?&style=for-the-badge&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:thebhikandeshmukh@gmail.com'>thebhikandeshmukh@gmail.com</a>
-</p>
 <p align="center">
-<img title="Happy Clints" src="https://komarev.com/ghpvc/?username=bhikanbeshmukh&color=brightgreen" alt="bhikanbeshmukh" />
+  <a href="https://github.com/bhikandeshmukh">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Freelancer;E-commerce+%26+Warehouse+Automation;Next.js+%7C+TypeScript+%7C+Python+%7C+Kotlin;Building+tools+that+save+hours+every+day" alt="Typing SVG" />
+  </a>
 </p>
 
-<details>
-  <summary>📃 Know About More</summary><br>
-
-
-## Education
-
-- 📖 **Web tech / Programming**\
-📆 2012 - Present\
-📍 **University Of Internet**
-
-- 📖 **B.Com**\
-📆 2014 - 2018\
-📍 **North Maharastra University**
-
-- 📖 **Hotel Management (DFP)**\
-📆 2019 - 2020\
-📍 **University of Delhi**
-
-## Experience
-
-- 👨‍💻 **Freelancer**\
-📆 2015 - moment\
-📍 **World Wide**
-
-<!--## Skills
-
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
-
-**Programming**
-
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
-**Operating Systems**
-
-<img align="right" src="https://img.shields.io/badge/English-B2-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=" />
-<img align="right" src="https://img.shields.io/badge/Italian-mother tongue-green?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+" />
-
--->
-
-</details>
-
-<!--
-**bhikanbeshmukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<details>
-  <summary>Best Tools</summary><br>
 <p align="center">
-<a href="https://github.com/bhikandeshmukh/MaskPhish"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=MaskPhish&theme=dark"></a><br>
-<a href="https://github.com/bhikandeshmukh/instainsane"><img title="instarat" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=instainsane&theme=default"></a><br>
-<a href="https://github.com/bhikandeshmukh/DroidTracker"><img title="AdvPhishing" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=DroidTracker&theme=dark"></a><br>
-<a href="https://github.com/bhikandeshmukh/ipgeolocation"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=ipgeolocation&theme=default"></a><br>
-<a href="https://github.com/bhikandeshmukh/sheller"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=sheller&theme=dark"></a><br>
-<a href="https://github.com/bhikandeshmukh/userrecon"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=userrecon&theme=default"></a><br>
+  <img src="https://komarev.com/ghpvc/?username=bhikandeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/bhikandeshmukh?tab=followers"><img src="https://img.shields.io/github/followers/bhikandeshmukh?label=Followers&style=flat&color=0e75b6&logo=github" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/📍-Surat,%20India-0e75b6?style=flat" alt="Location" />
 </p>
 
-</details>
+---
 
-<p align='center'>
-<a href="https://github.com/bhikandeshmukh/shark"><img title="Shark" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=shark&theme=dark"></a>
-<a href="https://github.com/bhikandeshmukh/instarat"><img title="instarat" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=instarat&theme=default"></a>
-<a href="https://github.com/bhikandeshmukh/badges"><img title="AdvPhishing" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=badges&theme=dark"></a>
-<a href="https://github.com/bhikandeshmukh/CamPhish"><img title="Blackeye-v2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=bhikandeshmukh&repo=CamPhish&theme=default"></a>
-</a>
+### 🧑‍💻 About me
+
+- 💼 Freelance developer since **2015**, working with clients worldwide
+- 🛒 Currently building **e-commerce operations tools** — bulk product listings for Myntra / Amazon / Flipkart / Ajio, dispatch & returns management, and marketplace automation ([EcomSpace](https://github.com/bhikandeshmukh/EcomSpace))
+- 🏭 Shipping **warehouse & workforce apps** — productivity tracking, inventory management and geofenced attendance
+- 📱 Building **Android apps** in Kotlin, like [AirTap](https://github.com/bhikandeshmukh/AirTap) (control your phone from your desktop)
+- 🛡️ Long-time **security & OSINT** enthusiast — several of my early tools crossed hundreds of ⭐
+- 🎓 B.Com — North Maharashtra University · Diploma in Hotel Management — University of Delhi
+- 📫 Reach me at **[thebhikandeshmukh@gmail.com](mailto:thebhikandeshmukh@gmail.com)**
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,tailwind,html,css&perline=8" alt="Web stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,androidstudio,cpp,bash,powershell&perline=8" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,git,github,vercel,linux,vscode&perline=9" alt="Tools" />
+</p>
+
+---
+
+### 🚀 What I'm building now
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**EcomSpace**](https://github.com/bhikandeshmukh/EcomSpace) | Marketing site for the EcomSpace marketplace-automation ecosystem | TypeScript |
+| [**ACPLEFF**](https://github.com/bhikandeshmukh/ACPLEFF) | Task & efficiency tracker for warehouse / fulfillment-center staff with productivity reports | Next.js · TypeScript |
+| [**ATND**](https://github.com/bhikandeshmukh/ATND) | Location-based attendance system with geofenced check-ins, working hours and monthly reports | TypeScript |
+| [**AirTap**](https://github.com/bhikandeshmukh/AirTap) | Control your Android phone from your desktop — files, notifications, SMS, screen mirroring | Kotlin |
+| [**Dispatch Manager**](https://github.com/bhikandeshmukh/dispatchmanager) | Manage dispatches, returns and cancellations across e-commerce portals and couriers | HTML · JS |
+| [**Bulk Listing Tool**](https://github.com/bhikandeshmukh/bulklistingtool) | Manage thousands of product listings across multiple marketplaces | HTML · JS |
+| [**TaskMaster**](https://github.com/bhikandeshmukh/TaskMaster) | Split / merge PDFs, extract image EXIF data and merge Excel/CSV files | Python |
+
+### ⭐ Popular open-source projects
+
+| Project | Stars | Description |
+|---|---|---|
+| [**shark**](https://github.com/bhikandeshmukh/shark) | ![stars](https://img.shields.io/github/stars/bhikandeshmukh/shark?style=flat&label=) | Phishing-awareness and security testing toolkit |
+| [**instarat**](https://github.com/bhikandeshmukh/instarat) | ![stars](https://img.shields.io/github/stars/bhikandeshmukh/instarat?style=flat&label=) | Instagram automation tool |
+| [**MapEye**](https://github.com/bhikandeshmukh/MapEye) | ![stars](https://img.shields.io/github/stars/bhikandeshmukh/MapEye?style=flat&label=) | GPS location tracker for Android, iOS and Windows phones |
+| [**fbreport**](https://github.com/bhikandeshmukh/fbreport) | ![stars](https://img.shields.io/github/stars/bhikandeshmukh/fbreport?style=flat&label=) | Facebook bulk-report utility |
+| [**Wi-Fi-Jammer**](https://github.com/bhikandeshmukh/Wi-Fi-Jammer) | ![stars](https://img.shields.io/github/stars/bhikandeshmukh/Wi-Fi-Jammer?style=flat&label=) | Wireless security testing script in Python |
+| [**Blackeye-v2.0**](https://github.com/bhikandeshmukh/Blackeye-v2.0) | ![stars](https://img.shields.io/github/stars/bhikandeshmukh/Blackeye-v2.0?style=flat&label=) | Successor of Blackeye v1.0 with 10 new pages |
+
+> ⚠️ Security tools are published for education and authorized testing only.
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bhikandeshmukh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhikanbeshmukh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/bhikan_deshmukh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/bhikan_deshmukh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.facebook.com/thebhikandeshmukh"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://t.me/dev_aladdin"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://wa.me/918600525401"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:thebhikandeshmukh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://bhikandeshmukh.github.io/portfolio3/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<p align="center">
+  <a href="https://pages.razorpay.com/mrbee"><img src="https://img.shields.io/badge/Support%20my%20work-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Support via Razorpay" /></a>
+</p>
